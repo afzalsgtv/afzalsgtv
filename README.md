@@ -36,16 +36,6 @@
 Реализация и сравнение двух базовых семейств алгоритмов ML: kNN (включая собственную реализацию с нуля) и линейной регрессии с Ridge/Lasso-регуляризацией. Датасеты — Palmer Penguins и Diamonds. Подбор гиперпараметров через кросс-валидацию, диагностика мультиколлинеарности, отбор признаков через Lasso.  
 `Python` `scikit-learn` `NumPy` `pandas` `matplotlib`
 
----
-
-## GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=afzalsgtv&show_icons=true&theme=default&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afzalsgtv&layout=compact&hide_border=true" height="150"/>
-</p>
-
----
 
 ## Связаться
 
