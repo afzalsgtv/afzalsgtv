@@ -31,11 +31,10 @@
 отбор признаков через Lasso.
 
 `Python` `scikit-learn` `NumPy` `pandas` `matplotlib`
-Учебный проект
 
 ---
 
 ## Связаться
 
-Telegram — [@rea8red](https://t.me/rea8red)
-Почта — afzal.sagatov0@gmail.com
+*Telegram — [@rea8red](https://t.me/rea8red)
+*Почта — afzal.sagatov0@gmail.com
