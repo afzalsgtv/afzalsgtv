@@ -23,7 +23,7 @@
 `Python` `GeoPandas` `OSMnx` `Folium` `Selenium` `pandas`
 Групповой проект, ВШЭ, 2025
 
-### [Калькулятор A/B-тестов](https://github.com/afzalsgtv/ab-test-calc)
+### [Калькулятор A/B-тестов](https://github.com/afzalsgtv/A-B-testing-calc)
 **[Открыть приложение →](https://a-b-testing-calc.streamlit.app/)**
 
 Инструмент для планирования и анализа A/B-тестов: расчёт размера выборки под
